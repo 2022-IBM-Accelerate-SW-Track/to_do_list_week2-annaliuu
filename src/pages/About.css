@@ -10,11 +10,14 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  width: 45%;
+  background-color: #e1f5fe;
 }
 
 .right {
   right: 0;
+  width: 55%;
+  background-color: #e8dff5;
 }
 
 .centered {
@@ -37,6 +40,6 @@
 }
 
 .profile_image {
-  width: 500px;
+  width: 350px;
   height: auto;
 }
